@@ -1,0 +1,40 @@
+1. PENGERTIAN DASAR
+1.1. Pengertian Komputer
+ Komputer adalah serangkaian ataupun sekelompok mesin elektronik yang
+Terdiri dari ribuan bahkan jutaan komponen yang dapat saling
+bekerja sama, serta membentuk sebuah sistem kerja yang rapi
+dan teliti. Sistem ini kemudian dapat digunakan untuk melaksanakan
+serangkaian pekerjaan secara otomatis, berdasar urutan instruksi
+ataupun program yang diberikan kepadanya. Definisi yang ada memberi
+makna bahwa komputer memiliki lebih dari satu bagian yang saling bekerja sama,
+dan bagian-bagian itu baru bisa bekerja kalau ada aliran listrik
+yang mengalir didalamnya. Istilah mengenai sekelompok mesin, ataupun
+istilah mengenai jutaan komponen kemudian dikenal sebagai hardware
+Komputer atau perangkat keras komputer.
+
+1.2. Struktur dan fungsi komputer
+ Fungsi masing-masing bagian dalam struktur diagram blok komputer:
+1. Input device
+ Adalah peralatan yang kita gunakan untuk memasukkan
+Data/perintah ke dalam komputer
+Contoh:
+A. Keyboard
+B. Mouse
+C. Scanner
+2. Output device
+ Adalah peralatan yang kita gunakan untuk melihat hasil pengolahan
+data/perintah yang dilakukan dalam komputer.
+A. Monitor
+B. Printer
+C. Speaker
+3. I/O Port
+ Adalah input/output. Bagian ini digunakan untuk menerima ataupun mengirim
+data keluar system.
+4. CPU
+ Merupakan otak system computer. CPU memiliki 2 bagian fungsi operasional
+Yaitu Arithmatical Logical Unit(ALU) sebagai pusat pengolahan data
+Serta bagian Control Unit(CU) digunakan untuk mengontrol
+kerja komputer. Biasa disebut dengan na processesor saja.
+5. Memory
+ Bagian ini terdiri dari internal memory yaitu berupa RAM dan ROM serta
+eksternal memory yaitu berbagai macam disk yaitu hard disk, SSD, Flashdisk dan optical disc.
